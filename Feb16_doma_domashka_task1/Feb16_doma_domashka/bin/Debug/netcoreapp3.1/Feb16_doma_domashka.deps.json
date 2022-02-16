@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Feb16_doma_domashka/1.0.0": {
+        "runtime": {
+          "Feb16_doma_domashka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feb16_doma_domashka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

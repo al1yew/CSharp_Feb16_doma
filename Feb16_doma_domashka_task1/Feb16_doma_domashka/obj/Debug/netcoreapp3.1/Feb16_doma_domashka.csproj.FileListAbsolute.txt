@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.exe
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.deps.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.runtimeconfig.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.runtimeconfig.dev.json
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.dll
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\bin\Debug\netcoreapp3.1\Feb16_doma_domashka.pdb
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.AssemblyInfo.cs
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.dll
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.pdb
+C:\Users\hp\Desktop\programming\vse zadaniya vnutri etoy papki\Feb16_doma_domashka\Feb16_doma_domashka\obj\Debug\netcoreapp3.1\Feb16_doma_domashka.genruntimeconfig.cache
